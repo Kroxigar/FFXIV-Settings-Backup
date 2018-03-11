@@ -8,7 +8,7 @@ PadMode	1
 <UI Settings>
 
 <Charcter Settings>
-WeaponAutoPutAway	1
+WeaponAutoPutAway	0
 WeaponAutoPutAwayTime	2
 LipMotionType	1
 
@@ -48,7 +48,7 @@ TimeLocal	1
 TimeServer	1
 ActiveLS_H	5308416
 ActiveLS_L	74557
-HotbarLock	0
+HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
